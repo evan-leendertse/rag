@@ -1,0 +1,11 @@
+# Real knowledge-base data — keep private
+rag_sample_qas_from_kis.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
